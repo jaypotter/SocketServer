@@ -5,7 +5,6 @@
     "license": "MIT",
     "require": {
         "php": "^8.3",
-        "potter/application": "dev-main",
         "potter/aware": "dev-main",
         "potter/cloneable": "dev-main",
         "potter/container-aware": "dev-main",
