@@ -5,6 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.3",
+        "potter/container-aware": "dev-main",
         "potter/socket-server-interface": "dev-main",
         "potter/socket-server-trait": "dev-main",
         "potter/socket-aware": "dev-main"
